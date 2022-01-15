@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 >A Frontend developer from Turkey</h3>
 - 🌱 I’m currently learning React
 
-<!-- - 📫 How to reach me: **ulashasbay@gmail.com** -->
+<!-- - 📫 How to reach me: -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
