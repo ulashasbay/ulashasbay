@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <h1 >Hi 👋, I'm Ulaş</h1>
 <h3 >A Frontend developer from Turkey</h3>
-- 🌱 I’m currently learning React
 
 <!-- - 📫 How to reach me: -->
 
